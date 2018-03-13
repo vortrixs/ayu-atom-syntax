@@ -1,8 +1,8 @@
 {
-  "name": "ayu-mirage",
+  "name": "ayu-atom-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "",
+  "description": "Custom version based on ayu-mirage",
   "keywords": [
     "syntax",
     "theme"
